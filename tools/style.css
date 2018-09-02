@@ -1,6 +1,17 @@
 /* Reset */
+.termdate
+{
+	width:50%;
+}
+
+.termdate td
+{
+	padding: 10px;;
+}
+
 
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,dfn,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
+
 
 html,body{
 height: 100%;
@@ -293,3 +304,4 @@ nav {
 	border-radius: 12px;
 	box-shadow: inset 0px 0px 4px 2px rgba(0,0,0,0.3);
 }
+
